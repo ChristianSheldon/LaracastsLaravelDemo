@@ -1,7 +1,3 @@
-@extends('layout')
-
-@section('title', 'info Page')
-
-@section('content')
-    <h2>Welcome to the info page!</h2>
-@endsection
+<x-layout>
+<h1>Welcome to the Info Page</h1>
+</x-layout>
